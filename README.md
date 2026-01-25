@@ -17,3 +17,7 @@ A professional, fully responsive web project built with modern technologies focu
 ![Project Preview](./screen.png)
 
 
+## 🚀 Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Houzifa-Mosaad/Website-Houzifa-Mosaad.git]
